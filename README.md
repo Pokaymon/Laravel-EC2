@@ -15,10 +15,14 @@ sudo systemctl start apache2
 sudo systemctl status apache2
 ```
 
-### 💻 **Php**
+### 💻 **Php (Ultima Version)**
 ```bash
 sudo apt-get install php php-cli php-common php-imap php-redis php-snmp php-xml php-zip php-mbstring php-curl
-
 php -v
 ```
 
+### 🎶 **Curl y Composer**
+```bash
+sudo apt install curl
+sudo apt install composer
+```
