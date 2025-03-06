@@ -25,4 +25,16 @@ php -v
 ```bash
 sudo apt install curl
 sudo apt install composer
+composer
 ```
+
+### ⚙️ **Crear Proyecto**
+```bash
+cd /var/www/html
+sudo composer create-project laravel/laravel "project"
+cd project/
+php artisa --version
+```
+
+### ⚙️ **Crear Proyecto**
+
