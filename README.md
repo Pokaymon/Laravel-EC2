@@ -15,4 +15,10 @@ sudo systemctl start apache2
 sudo systemctl status apache2
 ```
 
+### 💻 **Php**
+```bash
 sudo apt-get install php php-cli php-common php-imap php-redis php-snmp php-xml php-zip php-mbstring php-curl
+
+php -v
+```
+
