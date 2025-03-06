@@ -3,5 +3,7 @@ Como montar Laravel en EC2
 
 ## 🚀 **¿Comandos Principales?**
 ```bash
-pip install -r requirements.txt
+sudo apt-get update -y // Actualizar
+sudo apt-get upgrade -y
+sudo apt-install apache2 // Instalar apache
 ```
