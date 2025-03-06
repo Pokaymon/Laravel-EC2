@@ -33,7 +33,7 @@ composer
 cd /var/www/html
 sudo composer create-project laravel/laravel "project"
 cd project/
-php artisa --version
+php artisan --version
 ```
 
 #### 🔑 **Cambiar propietario de todos los archivos y directorios en el proyecto a www-data(usuario y grupo utizado por Apache)**
